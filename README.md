@@ -1,4 +1,4 @@
-# MIPS-Assembly
+## MIPS-Assembly
 
 # Multiples:
 
